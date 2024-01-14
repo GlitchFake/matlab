@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15e3d39d01a5946499fa8b6b5dc1b00f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - decalHitWall: {fileID: 6431444742465755981, guid: a6d908f7654859b438252730279f9f5c,
+      type: 3}
+  - bloodEffect: {fileID: 1013274939826982, guid: ffbf169ab9dcfdc45ae14010bc82a6b2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
