@@ -7,6 +7,10 @@ TagManager:
   - SecondCamera
   - BulletSpawn
   - Weapon
+  - LevelPart
+  - Dummie
+  - dogru
+  - yanlis
   layers:
   - Default
   - TransparentFX
